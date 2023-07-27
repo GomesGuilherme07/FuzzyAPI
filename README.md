@@ -23,4 +23,10 @@ Doc library FuzzySharp: https://github.com/JakeBayer/FuzzySharp
 
 ## Example
 
+![image](https://github.com/GomesGuilherme07/FuzzyAPI/assets/23075005/0c5a5497-4486-4eab-a02d-805154b56ae7)
+
+![image](https://github.com/GomesGuilherme07/FuzzyAPI/assets/23075005/ca336b2d-8f68-4a84-806c-ec3359476e10)
+
+
+
 
